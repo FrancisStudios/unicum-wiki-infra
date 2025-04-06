@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # Login script
 echo -e '\033[0;31m Mariadb Database Login'
 
